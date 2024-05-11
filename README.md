@@ -2,7 +2,7 @@
 
 
 - 📚 Estudando Python e Flask
-- 📩 Contate-me em arthur.paschoal@edu.pucrs.br
+- 📩 Contate-me no email: arthur.paschoal@edu.pucrs.br
 <div style="display: inline_block"><br>
   <img align="center" alt="Paxoal-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Paxoal-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
